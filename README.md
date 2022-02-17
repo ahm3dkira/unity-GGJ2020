@@ -1,6 +1,5 @@
 # unity-GGJ2020
-This game made in GGJ2020 by MrKira
+This game made in GGJ2020 by Ahmed Kira
 
-youtube
-https://www.youtube.com/c/MrKira128 
 
+https://ahmedkira.com/
